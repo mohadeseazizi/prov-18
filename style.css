@@ -1,9 +1,32 @@
+#bg{
+    background-image: url(381cf527fe6fa8b9c5524590d230d4f2.jpg);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+}
 #my-div{
-    box-sizing: border-box ;
-    margin: 200px;
+  background-color: rgb(253, 252, 251);
+  box-sizing: border-box ;
+  margin: 100px;
+  border: 200px;
+  height: 500px;
+  width: 600px;
+  padding: 10px;
+  align-self: center;
+
+
+}
+#mydiv2{
+    background-color: rgb(255, 255, 255);
+    
+    
     border: 120px;
     height: 400px;
-    width: 600px;
+    width: 500px;
 }
 h3{
     font-style: oblique;
@@ -84,4 +107,9 @@ h3{
     border-radius: 50%;
     background: #010733;
     cursor: pointer;
+  }
+  #fname{ 
+width: 70px;
+height: 30px;
+
   }
